@@ -1,5 +1,6 @@
-## 💫 About Me
-- 🔭 I’m currently doing an Internship as a Software Engineer Intern at [Octek Pakistan](https://www.octekpakistan.com)  
+## About Me
+- 🔭 I’m currently doing an Internship as a Software Engineer Intern at [Octek Pakistan](https://www.octekpakistan.com)
+- 💫 xFront End Developer Intern - Interns Pakistan | xTeaching Assistant - FAST NUCES, Lahore
 - 🌱 I’m currently exploring Web Development & Designing  
 - 👯 I’m looking to elevate my skills and gain experience  
 - 💬 Do let me know if you want to talk about Tech Related Stuff  
