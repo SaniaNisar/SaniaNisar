@@ -4,7 +4,7 @@
 - 🌱 I’m currently exploring Web Development & Designing  
 - 👯 I’m looking to elevate my skills and gain experience  
 - 💬 Contact me for Tech Related queries or for freelancing  
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/sania-nisar/)  [Instagram](https://www.instagram.com/sania.nisar01//)
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/sania-nisar/)  [Instagram](https://www.instagram.com/sania.nisar01/)
 - 😄 Pronouns: She/Her  
 - ⚡ Hobbies: I am fond of Badminton, making Prototypes, Arts and Crafts  
 
