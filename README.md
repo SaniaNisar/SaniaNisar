@@ -12,3 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sania%20Nisar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sania-nisar/)  
 [![Instagram](https://img.shields.io/badge/Instagram-sanianisar-green?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourinstagramusername)  
 
+## My Contibutions
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SaniaNisar&show_icons=true&theme=radical)
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaniaNisar&layout=compact&theme=radical)
