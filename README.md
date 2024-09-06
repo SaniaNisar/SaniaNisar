@@ -1,3 +1,23 @@
+<h1 align="center">Hey there 👋, I'm Sania Nisar</h1>
+
+<p align="center">
+  <b>Always learning new things.</b>
+</p>
+
+
+
+
+<p align="center">
+  Motivated Software Engineering student graduating from FAST NUCES, Lahore. I'm passionate about learning new things and staying up-to-date with technology. I always look for opportunities that challenge my creativity, problem-solving, and analytical skills.
+</p>
+
+
+<h2 align="center">🚀 Currently Working On</h2>
+<p align="center">
+  I'm working on <strong>Machine Learning </strong> and <strong>DataScience</strong>.
+</p>
+
+
 ## About Me
 - 🔭 I’m currently doing an Internship as a Software Engineer Intern at [Octek](https://octek.co/)
 - 💫 xFront End Developer Intern - Interns Pakistan |  xTeaching Assistant - FAST NUCES, Lahore
