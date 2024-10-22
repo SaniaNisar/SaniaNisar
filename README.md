@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Sania Nisar</h1>
 
 <p align="center">
-  <b>Always learning new things.</b>
+  <b>Always learning new things!</b>
 </p>
 
 
