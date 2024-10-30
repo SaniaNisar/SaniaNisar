@@ -4,7 +4,7 @@
   <b>Always learning new things!</b>
 </p>
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SaniaNisar/SaniaNisar)
 
 
 <p align="center">
