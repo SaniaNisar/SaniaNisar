@@ -24,7 +24,7 @@
 <div  align="center">
 <h3>Frontend:</h3>
 <div>  
-    <img src="https://skillicons.dev/icons?i=java,react,spring,css,tailwind,html,bootstrap,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=java,react,typescript,spring,css,tailwind,html,bootstrap,javascript" /><br>
 </div>
 
 <h3>Backend:</h3>
