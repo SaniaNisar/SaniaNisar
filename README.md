@@ -21,12 +21,15 @@
   I'm working on <strong>Machine Learning </strong> and <strong>DataScience</strong>.
 </p>
 
+
 <div  align="center">
+  <h1>SkillSet</h1>
+  
 <h3>Frontend:</h3>
 <div>  
     <img src="https://skillicons.dev/icons?i=java,react,typescript,spring,css,tailwind,html,bootstrap,javascript" /><br>
 </div>
-
+  
 <h3>Backend:</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,spring,express,nextjs,npm,js,jquery" /><br>
