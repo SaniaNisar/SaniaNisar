@@ -60,19 +60,18 @@
 <br>
 </div>
 </div>
-<!-- <div>
+<div>
 <img align="right", src="https://media.istockphoto.com/id/1241710244/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=U34U9zhLBWDEbfPmgmlnFJiP-EuWu7MEUCxUls_BnKU="  alt="Sania Nisar"
   style="display: inline-block; margin: 0 auto; max-width: 300 px ; width:400 px; "/>
-  </div> -->
+  </div>
   
 ## About Me
 - 🔭 I’m currently doing an Internship as a Software Engineer Intern at [Octek](https://octek.co/)
-- 💫 xFront End Developer Intern - Interns Pakistan |  xTeaching Assistant - FAST NUCES, Lahore
+- 💫 xTeaching Assistant - FAST NUCES, Lahore
 - 👯 I’m looking to elevate my skills and gain experience  
 - 💬 Contact me for Tech Related queries or for freelancing  
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/sania-nisar/)  [Instagram](https://www.instagram.com/sania.nisar01/)
 - 😄 Pronouns: She/Her  
-- ⚡ Hobbies: I am fond of Badminton, making Prototypes, Arts and Crafts  
+- ⚡ Hobbies: I am fond of Badminton, Arts and Crafts  
 
 ## 🌐 Connect With Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sania%20Nisar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sania-nisar/)  
