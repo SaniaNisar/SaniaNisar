@@ -8,7 +8,7 @@
   <b>Always learning new things!</b>
 </p>
 
- <img src="https://komarev.com/ghpvc/?username=sanianisar&label=Profile%20views&color=red&style=flat" alt="sania" /> 
+ <img src="https://komarev.com/ghpvc/?username=sanianisar&label=Profile%20views&color=0e75b6&style=flat" alt="sania" />
 
 
 <p align="center">
@@ -60,7 +60,11 @@
 <br>
 </div>
 </div>
-
+<div>
+<img align="right", src="https://media.istockphoto.com/id/1241710244/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=U34U9zhLBWDEbfPmgmlnFJiP-EuWu7MEUCxUls_BnKU="  alt="Sania Nisar"
+  style="display: inline-block; margin: 0 auto; max-width: 300 px ; width:400 px; "/>
+  </div>
+  
 ## About Me
 - 🔭 I’m currently doing an Internship as a Software Engineer Intern at [Octek](https://octek.co/)
 - 💫 xFront End Developer Intern - Interns Pakistan |  xTeaching Assistant - FAST NUCES, Lahore
