@@ -61,9 +61,9 @@
 </div>
 </div>
 <div>
-<img align="right", src="https://media.istockphoto.com/id/1241710244/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=U34U9zhLBWDEbfPmgmlnFJiP-EuWu7MEUCxUls_BnKU="  alt="Sania Nisar"
+<!-- <img align="right", src="https://media.istockphoto.com/id/1241710244/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=U34U9zhLBWDEbfPmgmlnFJiP-EuWu7MEUCxUls_BnKU="  alt="Sania Nisar"
   style="display: inline-block; margin: 0 auto; max-width: 300 px ; width:400 px; "/>
-  </div>
+  </div> -->
   
 ## About Me
 - 🔭 I’m currently doing an Internship as a Software Engineer Intern at [Octek](https://octek.co/)
