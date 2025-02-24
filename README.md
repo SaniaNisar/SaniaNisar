@@ -63,7 +63,8 @@
 <div>
 <!-- <img align="right", src="https://media.istockphoto.com/id/1241710244/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=U34U9zhLBWDEbfPmgmlnFJiP-EuWu7MEUCxUls_BnKU="  alt="Sania Nisar"
   style="display: inline-block; margin: 0 auto; max-width: 300 px ; width:400 px; "/>
-  </div> -->
+  </div>
+  // ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SaniaNisar&show_icons=true&theme=radical)-->
   
 ## About Me
 - 🔭 I’m currently doing an Internship as a Software Engineer Intern at [Octek](https://octek.co/)
@@ -78,9 +79,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-sanianisar-green?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourinstagramusername)  
 
 ## My Contibutions
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SaniaNisar&show_icons=true&theme=radical)
-
-
-
 <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sanianisar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br/>
