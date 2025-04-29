@@ -67,7 +67,7 @@
   <!--[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SaniaNisar&show_icons=true&theme=radical)-->
   
 ## About Me
-- 🔭 I’m currently doing an Internship as a Software Engineer Intern at [Octek](https://octek.co/)
+- 🔭 xWeb Developer - Software Engineer Intern at [Octek](https://octek.co/)
 - 💫 xTeaching Assistant - FAST NUCES, Lahore
 - 👯 I’m looking to elevate my skills and gain experience  
 - 💬 Contact me for Tech Related queries or for freelancing  
