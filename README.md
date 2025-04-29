@@ -27,22 +27,23 @@
   
 <h3>Frontend:</h3>
 <div>  
-    <img src="https://skillicons.dev/icons?i=java,react,typescript,spring,css,tailwind,html,bootstrap,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=java,react,typescript,spring,css,html,bootstrap,javascript" /><br>
 </div>
   
 <h3>Backend:</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,express,nextjs,npm,js,jquery" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,express,npm,js,jquery" /><br>
 </div>
 
 <h3>Database:</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sqlserver" alt="sqlserver" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> 
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/sqllite/sqllite-plain-wordmark.svg" title="sqllite" alt="sqllite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sqlserver" alt="sqlserver" width="40" height="40"/>&nbsp; -->
 </div>
 
  <h3>Artificial Intelligence:</h3>
-   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /><br>
+   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,flask" /><br>
 
 <h3>Languages:</h3>
 <div>
@@ -50,10 +51,10 @@
 </div>
 
 <h3>Design:</h3>
-    <img src="https://skillicons.dev/icons?i=figma,matlab,ps,ai,pr,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,matlab,ps,pr,notion" /><br>
 
 <h3>IDEs:</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,eclipse,powershell,wordpress,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,eclipse,powershell,windows,linux" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"  height="40" width="35" />
     <img src="https://store-images.s-microsoft.com/image/apps.8200.14525614036320964.388ccdd1-65a9-4bfc-81ce-c614493bcc79.5dfc4719-b603-45a1-a73e-bf55d9d25077?h=464"  height="40" width="35" /><br>
 
