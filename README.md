@@ -18,7 +18,7 @@
 
 <h2 align="center">🚀 Currently Working On</h2>
 <p align="center">
-  I'm working on <strong>Machine Learning </strong> and <strong>DataScience</strong>.
+  I'm working on <strong>Machine Learning </strong> and <strong>Generative AI</strong>.
 </p>
 
 
