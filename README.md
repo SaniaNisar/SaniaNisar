@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  Motivated Software Engineering student from FAST NUCES, Lahore. I'm passionate about learning new things and staying up-to-date with technology. I always look for opportunities that challenge my creativity, problem-solving, and analytical skills.
+  Software Engineer from FAST NUCES, Lahore. I'm passionate about learning new things and staying up-to-date with technology. I always look for opportunities that challenge my creativity, problem-solving, and analytical skills.
 </p>
 
 
