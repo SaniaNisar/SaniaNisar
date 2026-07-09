@@ -55,7 +55,7 @@
 
 <h3>IDEs:</h3>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,eclipse,powershell,windows,linux" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"  height="40" width="35" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"  height="40" width="35" />
     <img src="https://store-images.s-microsoft.com/image/apps.8200.14525614036320964.388ccdd1-65a9-4bfc-81ce-c614493bcc79.5dfc4719-b603-45a1-a73e-bf55d9d25077?h=464"  height="40" width="35" /><br>
 
 <br>
