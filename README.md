@@ -16,9 +16,9 @@
 </p>
 
 
-<h2 align="center">🚀 Currently Working On</h2>
+<h2 align="center">🚀 Currently Working</h2>
 <p align="center">
-  I'm working on <strong>Deep Learning </strong> and <strong>Generative AI</strong>.
+  I'm working as a <strong>Software Engineer - I </strong> at <strong>Arrivy</strong>.
 </p>
 
 
@@ -68,8 +68,8 @@
   <!--[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SaniaNisar&show_icons=true&theme=radical)-->
   
 ## About Me
-- 🔭 xWeb Developer - Software Engineer Intern at [Octek](https://octek.co/)
-- 💫 xTeaching Assistant - FAST NUCES, Lahore
+- 🔭 Software Engineer - I at [Arrivy](https://www.arrivy.com/)
+- 💫  xWeb Developer - Software Engineer Intern at [Octek](https://octek.co/) || xTeaching Assistant - FAST NUCES, Lahore
 - 👯 I’m looking to elevate my skills and gain experience  
 - 💬 Contact me for Tech Related queries or for freelancing  
 - 😄 Pronouns: She/Her  
